@@ -9,3 +9,4 @@ octave-ocs
 octave-odepkg
 gnuplot
 octave-plplot
+ghostscript
