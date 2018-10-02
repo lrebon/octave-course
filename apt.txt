@@ -1,1 +1,9 @@
 texlive
+octave
+octave-gsl
+octave-image
+octave-info
+octave-io
+octave-nlopt
+octave-ocs
+octave-odepkg
